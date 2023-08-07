@@ -26,15 +26,15 @@ function Home() {
         </div>
 
         <div className="absolute flex gap-3 bottom-3 left-1/2 transform -translate-x-1/2 transition-all cursor-pointer z-50 text-xl ">
-          <a href="https://www.instagram.com/letmedraw_you/" target="_blank">
+          {/* <a href="https://www.instagram.com/letmedraw_you/" target="_blank">
             <BsInstagram className="hover:scale-125 transition-all" />
-          </a>
+          </a> */}
           <a href="https://github.com/rakhikeshri" target="_blank">
             <BsGithub className="hover:scale-125 transition-all" />
           </a>
-          <a href="https://www.linkedin.com/in/rakhi-keshri/" target="_blank">
+          {/* <a href="https://www.linkedin.com/in/rakhi-keshri/" target="_blank">
             <BsLinkedin className="hover:scale-125 transition-all" />
-          </a>
+          </a> */}
         </div>
       </div>
     </>
